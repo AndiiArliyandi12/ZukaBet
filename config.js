@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
+global.owner = ['6281285578808'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -13,7 +13,7 @@ global.pulsa = '081285578808'
 global.gopay = '081285578808'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'F-Md'
+global.namebot = '𝕭𝖔𝖙 • Andii ㊧'
 global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
